@@ -4,3 +4,9 @@ Vrai projet/Intermediate/
 *.ini
 
 Vrai projet/Saved/Logs/PortPartie-backup-2022.01.25-08.49.33.log
+
+*.bin
+
+Vrai projet/Saved/AutoScreenshot.png
+
+*.log
